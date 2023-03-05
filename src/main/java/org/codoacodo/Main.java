@@ -1,4 +1,4 @@
-package org.example;
+package org.codoacodo;
 
 import java.util.Scanner;
 

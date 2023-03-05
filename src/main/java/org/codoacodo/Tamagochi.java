@@ -1,4 +1,4 @@
-package org.example;
+package org.codoacodo;
 
 import java.time.LocalTime;
 import java.time.temporal.ChronoUnit;
